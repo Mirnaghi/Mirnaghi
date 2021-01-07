@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **Mirnaghi/Mirnaghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Mirnaghi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mirnaghi&hide=stars,issues&count_private=true&show_icons=true"/>
 </a>
+<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirnaghi&layout=compact" />
 </a>
