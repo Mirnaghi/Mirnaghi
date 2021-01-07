@@ -18,21 +18,23 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello World, I'm Mirnaghi.</h1>
 <br />
-<br />
 <p align="center"> Web developer from Baku</p>
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 
 
-<a href="https://github.com/Mirnaghi/github-readme-stats">
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="center">📊 My GITHUB statistics: </h3>
+<a align="center" href="https://github.com/Mirnaghi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mirnaghi&hide=stars,issues&count_private=true&show_icons=true"/>
 </a>
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<br />
+<br />
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="center">👨‍💻 Languages I use mostly: </h3>
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirnaghi&layout=compact" />
 </a>
 
