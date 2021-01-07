@@ -23,15 +23,14 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center">📊 My GITHUB statistics: </h3>
 <a align="center" href="https://github.com/Mirnaghi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mirnaghi&hide=stars,issues&count_private=true&show_icons=true"/>
 </a>
 <br />
-<br />
-<br />
+<p align="center">#javascript #react #next.js</p>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center">👨‍💻 Languages I use mostly: </h3>
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
@@ -47,6 +46,5 @@ Here are some ideas to get you started:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
 -  **Pronouns :** He/Him/His :innocent:
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -->
